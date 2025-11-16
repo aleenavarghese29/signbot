@@ -1,0 +1,9 @@
+datasets/
+venv/
+env/
+scaler.pkl
+gemini_cache.json
+sign_model_bundle.pkl
+__pycache__/
+*.pyc
+.env
