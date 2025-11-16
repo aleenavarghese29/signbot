@@ -1,4 +1,4 @@
-datasets/
+dataset/
 venv/
 env/
 scaler.pkl
