@@ -73,9 +73,9 @@ Create a `.env` file and add:
 GEMINI_API_KEY=your_api_key_here
 ```
 
-5. **Create datasets folder**
+5. **Create dataset folder**
 ```bash
-mkdir datasets
+mkdir dataset
 ```
 
 ## How to Run
@@ -154,7 +154,7 @@ Camera → Capture Frame → CLIP Features → SVM Prediction → Text → Gemin
 
 ```
 signbot/
-├── datasets/           # Training images (not uploaded to GitHub)
+├── dataset/           # Training images (not uploaded to GitHub)
 ├── capture_dataset.py
 ├── resize_images.py
 ├── augment_data.py
