@@ -40,13 +40,13 @@ SignBot is an AI-powered communication assistant that helps sign language users 
 ### Prerequisites
 - Python 3.8+
 - Webcam
-- Google Gemini API Key ([Get it here](https://makersuite.google.com/app/apikey))
+- Google Gemini API Key 
 
 ### Steps
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/signbot.git
+git clone https://github.com/aleenavarghese29/signbot.git
 cd signbot
 ```
 
