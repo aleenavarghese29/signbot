@@ -15,10 +15,12 @@ SignBot is an AI-powered communication assistant that helps sign language users 
 - Converts their signs into spoken language instantly
 - Provides a bridge to communicate with anyone
 
-### For Blind Users
-- All responses are delivered through audio (text-to-speech)
-- Can hear the conversation without needing to read text
-- Makes sign language conversations accessible to them
+### For Deaf Users
+- All recognized gestures are converted into clear text on the screen
+
+- They can see the AI-generated responses without relying on sound
+
+- Makes conversations easier and more accessible for users who cannot hear
 
 ### For Everyone Else
 - No need to learn sign language to communicate
